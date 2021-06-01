@@ -1,4 +1,4 @@
-USE CHANGE_THIS_TO_YOUR_DB_NAME;
+USE cs108;
   -- >>>>>>>>>>>> change this line so it uses your database, not mine <<<<<<<<<<<<<<<
   
 DROP TABLE IF EXISTS metropolises;
